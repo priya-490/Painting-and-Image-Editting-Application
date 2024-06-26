@@ -1,2 +1,2 @@
 # Painting-and-Image-Editting-Application
-This is a painting application which contains a whiteboard that allows you to write , draw , design as well as use a variety of  shapes, brush and even save your created designs.   
+This application is a comprehensive tool designed to empower users with robust drawing, designing, and creative capabilities. It provides an intuitive interface for users to draw, design, create, and color various shapes. In addition, it offers functionalities for creating and editing notes, rotating images, and searching for images on the web. Users can also save their work with ease, ensuring their creations are preserved and accessible.
